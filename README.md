@@ -14,7 +14,7 @@
 
 Este projeto foi idealizado com o objetivo de aprimorar minha expertise em HTML, CSS e JavaScript, através do suporte e recursos fornecidos pela plataforma Rockeseat.
 
-- [Acesse o projeto]()
+- [Acesse o projeto](https://explorer-projeto5.vercel.app/)
 
 ## 🚀 Tecnologias
 
